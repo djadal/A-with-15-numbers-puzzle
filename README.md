@@ -1,1 +1,1 @@
-# A-with-15-numbers-puzzle
+# Astar with-15-numbers-puzzle
